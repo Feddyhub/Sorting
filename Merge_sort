@@ -1,0 +1,17 @@
+Merge sorting
+
+[16,21,11,8,12,22]
+
+divide and conquer
+
+boş array =[]
+[16,21,11] [8,12,22]
+
+[11,16,21] [8,12,22]
+burada birbirleri ile karşılaştırılırlar.
+
+x1 y1  x2 y2 
+
+// Hangisi küçükse ilk o yazılır ardından 2.yazılır ve diğer kıyaslamaya geçilir
+
+boş array=[8,11,12,16,21,22]'dir
