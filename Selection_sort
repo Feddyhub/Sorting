@@ -1,0 +1,15 @@
+Selection Sort, dizinin en küçük elemanını bulup ilk sıraya yerleştirerek, işlemi sırasıyla diğer elemanlar için tekrar ederek sıralama yapar. İlk 4 adımını yazmak için aşağıdaki adımları takip edebiliriz:
+
+İlk adımda, dizinin en küçük elemanını bulmak için tüm diziyi tararız. En küçük elemanın 2 olduğunu buluruz ve ilk elemanla yer değiştiririz:
+[2, 3, 5, 8, 7, 9, 4, 15, 6]
+
+İkinci adımda, ikinci en küçük elemanı bulmak için ikinci elemandan başlayarak tüm diziyi tararız. İkinci en küçük elemanın 3 olduğunu buluruz ve ikinci elemanla yer değiştiririz:
+[2, 3, 5, 8, 7, 9, 4, 15, 6]
+
+Üçüncü adımda, üçüncü en küçük elemanı bulmak için üçüncü elemandan başlayarak tüm diziyi tararız. Üçüncü en küçük elemanın 4 olduğunu buluruz ve üçüncü elemanla yer değiştiririz:
+[2, 3, 4, 8, 7, 9, 5, 15, 6]
+
+Dördüncü adımda, dördüncü en küçük elemanı bulmak için dördüncü elemandan başlayarak tüm diziyi tararız. Dördüncü en küçük elemanın 5 olduğunu buluruz ve dördüncü elemanla yer değiştiririz:
+[2, 3, 4, 5, 7, 9, 8, 15, 6]
+
+Bu şekilde ilk 4 adım sonrasında, dizinin ilk 4 elemanı küçükten büyüğe doğru sıralanmıştır. İlerleyen adımlarda, bu işlem diğer elemanlar için tekrarlanarak sıralama tamamlanacaktır.
