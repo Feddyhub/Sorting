@@ -1,8 +1,16 @@
-# Sorting Algoritması C dilinde uygulanması 
-## ödev
+# Sorting Algoritmalarının Kullanılması ödevi
+## ödev:Merge,İnsertion,Binary Tree ve Selection Sort'larıdır.
 
+
+#### Algoritma nedir
 Algoritmaların belirli sıraları vardır
 bu sıralamayı doğru yaptıktan sonra hangi dil ile yazıldığının hiçbir önemi yoktur
-# ben de okulda öğrendiğim dil olan c ile yazmayı tercih ediyorum
-`printf("C dilini seviyorum")`
-https://app.patika.dev/feddyka
+### Yazılım dilleri bu algoritma tekrarlarını kolaylaştırmak için var olmuşlar, ortaya çıkmışlardır,
+`if x<root
+sol[]=x
+else
+sag[]=x`
+
+
+
+! https://app.patika.dev/feddyka
