@@ -30,4 +30,4 @@ aynı şekilde son verimiz 6 için de geçerli
 -> bizim elimizdeki veri ortalama düzende bir veriydi.
 
 Big o Notation(n^2)'dir
-18 
+18  sayısı en iyi ihtimalle ilk seferde en kötü ihtimalde son ortalamada ise 3.seferde bulunurdu
